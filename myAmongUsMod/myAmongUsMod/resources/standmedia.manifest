@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3355697929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c38a8055cb3563ad34d5cb60ddf07ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/stands/harvest.png
+- Assets/stands/chuck.png
+- Assets/stands/cream.png
+- Assets/stands/redhotchilipepper.png
+- Assets/stands/magiciansred.png
+- Assets/stands/world.png
+- Assets/stands/starplatinum.png
+- Assets/stands/achtungbaby.png
+- Assets/stands/talkinghead.png
+- Assets/stands/hermitpurple.png
+- Assets/stands/whitesnake.png
+- Assets/stands/superfly.png
+- Assets/stands/lovers.png
+- Assets/stands/kingcrimson.png
+- Assets/stands/lock.png
+- Assets/stands/yellowtemperance.png
+- Assets/stands/bitesthedust.png
+Dependencies: []

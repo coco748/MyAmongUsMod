@@ -6,11 +6,12 @@
         <Mappings>NuclearPowered/Mappings:0.1.0-alpha.2</Mappings>
 
         <Description>Mod template for Reactor</Description>
-        <Authors>js6pak</Authors>
+        <Authors>coco748</Authors>
     </PropertyGroup>
 
     <ItemGroup>
         <Deobfuscate Include="$(AmongUs)\BepInEx\plugins\Reactor-$(GameVersion).dll" />
+		<EmbeddedResource Include="resources\chuck.png" />
 
         <PackageReference Include="Reactor.OxygenFilter.MSBuild" Version="0.2.3" />
     </ItemGroup>
